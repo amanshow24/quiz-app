@@ -1,0 +1,1668 @@
+[
+  {
+    "question": "Which country has the largest population in the world as of 2024?",
+    "options": ["India", "USA", "China", "Indonesia"],
+    "answer": 0
+  },
+  {
+    "question": "What does the acronym 'GDP' stand for?",
+    "options": ["Gross Domestic Product", "Global Development Plan", "General Data Protection", "Gross Development Projection"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the smallest country in the world by area?",
+    "options": ["Vatican City", "Monaco", "Malta", "Liechtenstein"],
+    "answer": 0
+  },
+  {
+    "question": "What is the boiling point of water at sea level in Celsius?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "answer": 1
+  },
+  {
+    "question": "Which year did the Titanic sink?",
+    "options": ["1910", "1912", "1914", "1920"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet in our solar system has the most moons?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": 1
+  },
+  {
+    "question": "In which continent is the Amazon Rainforest located?",
+    "options": ["Africa", "Asia", "South America", "North America"],
+    "answer": 2
+  },
+  {
+    "question": "Which language has the most native speakers in the world?",
+    "options": ["English", "Hindi", "Spanish", "Mandarin Chinese"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first person to walk on the moon?",
+    "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+    "answer": 1
+  },
+  {
+    "question": "Which company owns the Android operating system?",
+    "options": ["Apple", "Microsoft", "Samsung", "Google"],
+    "answer": 3
+  },
+  {
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "options": ["Tiger", "Lion", "Elephant", "Panther"],
+    "answer": 1
+  },
+  {
+    "question": "How many stripes are there on the US flag?",
+    "options": ["10", "13", "15", "50"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": 2
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Aluminum", "Iron", "Copper"],
+    "answer": 0
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Da Vinci", "Raphael", "Van Gogh", "Michelangelo"],
+    "answer": 3
+  },
+
+
+  
+
+
+  {
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "High Text Machine Language", "Hyperlink Text Managing Language", "Hyper Tool Markup Language"],
+    "answer": 0
+  },
+  {
+    "question": "Which company developed the Java programming language?",
+    "options": ["Microsoft", "Sun Microsystems", "Google", "Apple"],
+    "answer": 1
+  },
+  {
+    "question": "Which symbol is used to denote an ID selector in CSS?",
+    "options": [".", "#", "@", "$"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a JavaScript data type?",
+    "options": ["float", "int", "boolean", "char"],
+    "answer": 2
+  },
+  {
+    "question": "What is the output of 2 + '2' in JavaScript?",
+    "options": ["4", "22", "NaN", "undefined"],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword is used to declare a constant in JavaScript?",
+    "options": ["var", "let", "const", "static"],
+    "answer": 2
+  },
+  {
+    "question": "Which one is a frontend JavaScript framework?",
+    "options": ["Laravel", "React", "Django", "Flask"],
+    "answer": 1
+  },
+  {
+    "question": "What is the time complexity of binary search in a sorted array?",
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "answer": 1
+  },
+  {
+    "question": "Which file extension is used for Java source files?",
+    "options": [".java", ".js", ".class", ".jv"],
+    "answer": 0
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Simple Query Logic", "Sorted Query Language", "Server Query Logic"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a backend language?",
+    "options": ["HTML", "CSS", "Python", "React"],
+    "answer": 2
+  },
+  {
+    "question": "In C, which symbol is used to include a header file?",
+    "options": ["#", "@", "$", "&"],
+    "answer": 0
+  },
+  {
+    "question": "Which operator is used to compare both value and type in JavaScript?",
+    "options": ["==", "=", "===", "!=="],
+    "answer": 2
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Advanced Programming Input", "Application Program Integration", "Array Processing Interface"],
+    "answer": 0
+  },
+  {
+    "question": "Which HTTP status code means 'Not Found'?",
+    "options": ["400", "401", "404", "500"],
+    "answer": 2
+  },
+
+
+
+
+  
+  {
+    "question": "Who directed the movie 'Inception'?",
+    "options": ["Christopher Nolan", "James Cameron", "Steven Spielberg", "Quentin Tarantino"],
+    "answer": 0
+  },
+  {
+    "question": "Which movie won the Best Picture Oscar in 2023?",
+    "options": ["The Banshees of Inisherin", "Top Gun: Maverick", "Everything Everywhere All at Once", "All Quiet on the Western Front"],
+    "answer": 2
+  },
+  {
+    "question": "Who played the role of the Joker in 'The Dark Knight' (2008)?",
+    "options": ["Joaquin Phoenix", "Jared Leto", "Heath Ledger", "Jack Nicholson"],
+    "answer": 2
+  },
+  {
+    "question": "Which Bollywood movie featured the character 'Munna Bhai'?",
+    "options": ["PK", "Sanju", "Munna Bhai M.B.B.S.", "3 Idiots"],
+    "answer": 2
+  },
+  {
+    "question": "Which film franchise features the character 'Jack Sparrow'?",
+    "options": ["Pirates of the Caribbean", "Harry Potter", "Star Wars", "Lord of the Rings"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the highest-paid actor in Bollywood as of 2024?",
+    "options": ["Aamir Khan", "Shah Rukh Khan", "Akshay Kumar", "Salman Khan"],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian film was nominated for Best Original Song at the Oscars and won in 2023?",
+    "options": ["Naatu Naatu", "Jai Ho", "Tum Hi Ho", "Chaiyya Chaiyya"],
+    "answer": 0
+  },
+  {
+    "question": "Which movie is the highest-grossing film of all time (worldwide)?",
+    "options": ["Avengers: Endgame", "Titanic", "Avatar", "The Lion King"],
+    "answer": 2
+  },
+  {
+    "question": "Which actress played Hermione Granger in the Harry Potter series?",
+    "options": ["Emma Roberts", "Emma Watson", "Natalie Portman", "Anne Hathaway"],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian movie is based on the life of mathematician Anand Kumar?",
+    "options": ["Chhichhore", "Super 30", "Guru", "MS Dhoni: The Untold Story"],
+    "answer": 1
+  },
+  {
+    "question": "Which film had the famous dialogue: 'I'm gonna make him an offer he can't refuse'?",
+    "options": ["Scarface", "The Godfather", "Goodfellas", "Casino"],
+    "answer": 1
+  },
+  {
+    "question": "Which Bollywood movie starred all three Khans together?",
+    "options": ["Zero", "Andaz Apna Apna", "Karan Arjun", "There is no such movie"],
+    "answer": 3
+  },
+  {
+    "question": "Who voiced 'Simba' in the 2019 remake of The Lion King (English version)?",
+    "options": ["Donald Glover", "Beyoncé", "John Oliver", "Seth Rogen"],
+    "answer": 0
+  },
+  {
+    "question": "Which Indian director is known for epic films like Baahubali and RRR?",
+    "options": ["S. Shankar", "Rajkumar Hirani", "SS Rajamouli", "Anurag Kashyap"],
+    "answer": 2
+  },
+  {
+    "question": "Which movie is centered around dreams within dreams?",
+    "options": ["Interstellar", "Inception", "Tenet", "Memento"],
+    "answer": 1
+  },
+
+
+
+
+
+  
+  {
+    "question": "Which singer is known as the 'King of Pop'?",
+    "options": ["Elvis Presley", "Justin Bieber", "Michael Jackson", "Bruno Mars"],
+    "answer": 2
+  },
+  {
+    "question": "Who composed the Indian national anthem tune?",
+    "options": ["A.R. Rahman", "Rabindranath Tagore", "Lata Mangeshkar", "Zubin Mehta"],
+    "answer": 1
+  },
+  {
+    "question": "Which musical instrument has 88 keys?",
+    "options": ["Guitar", "Piano", "Violin", "Drums"],
+    "answer": 1
+  },
+  {
+    "question": "Which artist released the hit song 'Shape of You'?",
+    "options": ["Ed Sheeran", "Adele", "Harry Styles", "Charlie Puth"],
+    "answer": 0
+  },
+  {
+    "question": "What is the Indian classical music scale called?",
+    "options": ["Raag", "Octave", "Melody", "Chorus"],
+    "answer": 0
+  },
+  {
+    "question": "Which singer is known for the album '1989'?",
+    "options": ["Selena Gomez", "Lady Gaga", "Taylor Swift", "Billie Eilish"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the lead vocalist of the rock band Queen?",
+    "options": ["Mick Jagger", "Freddie Mercury", "Kurt Cobain", "Bono"],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian playback singer has recorded over 25,000 songs?",
+    "options": ["Sonu Nigam", "Kishore Kumar", "Shreya Ghoshal", "Lata Mangeshkar"],
+    "answer": 3
+  },
+  {
+    "question": "Which musical term means 'loud' in Italian?",
+    "options": ["Piano", "Allegro", "Forte", "Adagio"],
+    "answer": 2
+  },
+  {
+    "question": "Which rapper is known for the song 'Lose Yourself'?",
+    "options": ["Drake", "Jay-Z", "Kanye West", "Eminem"],
+    "answer": 3
+  },
+  {
+    "question": "Which Indian musician won an Oscar for 'Slumdog Millionaire'?",
+    "options": ["Ilaiyaraaja", "A.R. Rahman", "Salim-Sulaiman", "Vishal Bhardwaj"],
+    "answer": 1
+  },
+  {
+    "question": "Which classical composer became deaf later in life?",
+    "options": ["Bach", "Mozart", "Beethoven", "Tchaikovsky"],
+    "answer": 2
+  },
+  {
+    "question": "What is a group of four musicians called?",
+    "options": ["Quartet", "Trio", "Band", "Symphony"],
+    "answer": 0
+  },
+  {
+    "question": "Which song starts with the lyrics: 'Hello, it's me'?",
+    "options": ["Someone Like You", "Hello", "Skyfall", "Rolling in the Deep"],
+    "answer": 1
+  },
+  {
+    "question": "Which Indian instrument is commonly used in classical and devotional music?",
+    "options": ["Tabla", "Trumpet", "Harmonica", "Bass Guitar"],
+    "answer": 0
+  },
+
+
+
+
+
+
+ 
+  {
+    "question": "Who is the only cricketer to score 100 international centuries?",
+    "options": ["Virat Kohli", "Ricky Ponting", "Sachin Tendulkar", "Jacques Kallis"],
+    "answer": 2
+  },
+  {
+    "question": "Which country won the ICC Men's Cricket World Cup in 2019?",
+    "options": ["Australia", "India", "New Zealand", "England"],
+    "answer": 3
+  },
+  {
+    "question": "What is the maximum number of overs allowed per bowler in a T20 match?",
+    "options": ["4", "6", "5", "10"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the captain of India during the 2007 T20 World Cup win?",
+    "options": ["Rahul Dravid", "Virat Kohli", "MS Dhoni", "Sourav Ganguly"],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for a score of zero in cricket?",
+    "options": ["Duck", "Goose", "Golden Ball", "Bouncer"],
+    "answer": 0
+  },
+  {
+    "question": "Who has taken the most wickets in Test cricket?",
+    "options": ["Muttiah Muralitharan", "Shane Warne", "James Anderson", "Anil Kumble"],
+    "answer": 0
+  },
+  {
+    "question": "Which team has won the most IPL titles as of 2024?",
+    "options": ["Chennai Super Kings", "Mumbai Indians", "Kolkata Knight Riders", "Rajasthan Royals"],
+    "answer": 1
+  },
+  {
+    "question": "What is the color of the ball used in Test cricket?",
+    "options": ["Red", "White", "Pink", "Yellow"],
+    "answer": 0
+  },
+  {
+    "question": "Who is known as the 'Rawalpindi Express'?",
+    "options": ["Shoaib Akhtar", "Wasim Akram", "Mohammad Amir", "Imran Khan"],
+    "answer": 0
+  },
+  {
+    "question": "Which Indian bowler took 10 wickets in a single Test inning?",
+    "options": ["Kapil Dev", "Jasprit Bumrah", "Anil Kumble", "Ravichandran Ashwin"],
+    "answer": 2
+  },
+  {
+    "question": "Which format is played over 50 overs per side?",
+    "options": ["Test", "T20", "ODI", "T10"],
+    "answer": 2
+  },
+  {
+    "question": "Who hit six sixes in an over in the 2007 T20 World Cup?",
+    "options": ["Virender Sehwag", "Yuvraj Singh", "MS Dhoni", "Suresh Raina"],
+    "answer": 1
+  },
+  {
+    "question": "Where is the International Cricket Council (ICC) headquartered?",
+    "options": ["London", "Dubai", "Sydney", "Mumbai"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first Indian cricketer to score a triple century in Tests?",
+    "options": ["Sachin Tendulkar", "Rahul Dravid", "Virender Sehwag", "Sunil Gavaskar"],
+    "answer": 2
+  },
+  {
+    "question": "Which batsman has the highest individual score in ODI cricket?",
+    "options": ["Virat Kohli", "Martin Guptill", "Rohit Sharma", "Chris Gayle"],
+    "answer": 2
+  },
+
+
+
+  
+  {
+    "question": "Which meme features a distracted boyfriend looking at another woman?",
+    "options": ["Disaster Girl", "Distracted Boyfriend", "Two Buttons", "Change My Mind"],
+    "answer": 1
+  },
+  {
+    "question": "Which meme character is often associated with the phrase 'Hide the Pain'?",
+    "options": ["Grumpy Cat", "Bad Luck Brian", "Success Kid", "Harold"],
+    "answer": 3
+  },
+  {
+    "question": "Which meme originated from a Pakistani cricket fan’s disappointed reaction in 2019?",
+    "options": ["Confused Math Lady", "Sarim Akhtar", "Epic Facepalm", "Triggered"],
+    "answer": 1
+  },
+  {
+    "question": "‘This is fine’ is a meme featuring what animal?",
+    "options": ["Cat", "Dog", "Penguin", "Bear"],
+    "answer": 1
+  },
+  {
+    "question": "Which meme shows a girl smirking in front of a burning house?",
+    "options": ["Disaster Girl", "Overly Attached Girlfriend", "Success Kid", "Ermahgerd Girl"],
+    "answer": 0
+  },
+  {
+    "question": "What phrase is commonly associated with Elon Musk memes?",
+    "options": ["To the moon!", "Very wow!", "What are those!", "This is fine"],
+    "answer": 0
+  },
+  {
+    "question": "‘Woman yelling at a cat’ meme features a cat known as?",
+    "options": ["Whiskers", "Grumpy", "Smudge", "Mittens"],
+    "answer": 2
+  },
+  {
+    "question": "‘Two Buttons’ meme format involves what situation?",
+    "options": ["Choosing between two difficult options", "Angry cat", "Zoom calls", "People running"],
+    "answer": 0
+  },
+  {
+    "question": "Which Indian politician went viral for the line 'Sochta hoon chhod doon'?",
+    "options": ["Rahul Gandhi", "Narendra Modi", "Manmohan Singh", "Arvind Kejriwal"],
+    "answer": 1
+  },
+  {
+    "question": "The meme ‘Ye bik gayi hai gormint’ features whom?",
+    "options": ["Bollywood actor", "Pakistani aunty", "Indian police officer", "Cricketer"],
+    "answer": 1
+  },
+  {
+    "question": "‘Am I a joke to you?’ meme is based on which personality?",
+    "options": ["Nigerian actor", "Stand-up comedian", "Cartoon character", "Instagram influencer"],
+    "answer": 0
+  },
+  {
+    "question": "The ‘Math Lady’ meme is taken from which show?",
+    "options": ["Sherlock", "The Office", "The Simpsons", "Senhora do Destino"],
+    "answer": 3
+  },
+  {
+    "question": "What is the famous 'dancing coffin' meme associated with?",
+    "options": ["Graduation", "Success", "Failure or death", "Wedding"],
+    "answer": 2
+  },
+  {
+    "question": "Which Indian meme is famous for the line 'Bigg boss chahte hain'?",
+    "options": ["BB Meme", "Salman Roast", "Asim Riaz Meme", "SidNaaz Moment"],
+    "answer": 0
+  },
+  {
+    "question": "‘Okay Boomer’ is a meme phrase used to?",
+    "options": ["Praise Gen Z", "Mock older generation", "Cheer baby boomers", "Support Gen Alpha"],
+    "answer": 1
+  },
+
+
+
+
+
+  
+  {
+    "question": "Which is the largest desert in the world?",
+    "options": ["Sahara", "Gobi", "Antarctic Desert", "Kalahari"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": 2
+  },
+  {
+    "question": "The river Ganges originates from which Indian state?",
+    "options": ["Uttarakhand", "Uttar Pradesh", "Himachal Pradesh", "Sikkim"],
+    "answer": 0
+  },
+  {
+    "question": "Which country shares the longest border with India?",
+    "options": ["China", "Pakistan", "Nepal", "Bangladesh"],
+    "answer": 3
+  },
+  {
+    "question": "Mount Everest lies on the border of which two countries?",
+    "options": ["India and China", "Nepal and China", "Bhutan and Nepal", "India and Nepal"],
+    "answer": 1
+  },
+  {
+    "question": "Which continent has the most number of countries?",
+    "options": ["Asia", "Europe", "Africa", "South America"],
+    "answer": 2
+  },
+  {
+    "question": "Which Indian city is known as the 'City of Lakes'?",
+    "options": ["Bhopal", "Udaipur", "Nainital", "Srinagar"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the smallest continent by land area?",
+    "options": ["Europe", "Antarctica", "Australia", "South America"],
+    "answer": 2
+  },
+  {
+    "question": "Which Indian state has the longest coastline?",
+    "options": ["Gujarat", "Maharashtra", "Andhra Pradesh", "Tamil Nadu"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon", "Yangtze", "Mississippi", "Nile"],
+    "answer": 3
+  },
+  {
+    "question": "Which ocean lies between Africa and Australia?",
+    "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "answer": 2
+  },
+  {
+    "question": "The Tropic of Cancer passes through how many Indian states?",
+    "options": ["6", "8", "10", "12"],
+    "answer": 2
+  },
+  {
+    "question": "Which city is located on the banks of the Yamuna River?",
+    "options": ["Agra", "Kolkata", "Mumbai", "Bangalore"],
+    "answer": 0
+  },
+  {
+    "question": "Which Indian island is closest to the equator?",
+    "options": ["Minicoy", "Port Blair", "Car Nicobar", "Rameswaram"],
+    "answer": 0
+  },
+  {
+    "question": "Which country has the most volcanoes?",
+    "options": ["Indonesia", "USA", "Japan", "Italy"],
+    "answer": 0
+  },
+
+
+
+
+
+
+
+
+ 
+  {
+    "question": "Who was the first President of independent India?",
+    "options": ["Jawaharlal Nehru", "Dr. Rajendra Prasad", "Sardar Patel", "Subhash Chandra Bose"],
+    "answer": 1
+  },
+  {
+    "question": "In which year did World War II end?",
+    "options": ["1940", "1943", "1945", "1950"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the founder of the Maurya Empire?",
+    "options": ["Chandragupta Maurya", "Ashoka", "Bindusara", "Harsha"],
+    "answer": 0
+  },
+  {
+    "question": "Which Mughal emperor built the Taj Mahal?",
+    "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Jahangir"],
+    "answer": 2
+  },
+  {
+    "question": "The American Declaration of Independence was signed in which year?",
+    "options": ["1776", "1789", "1800", "1756"],
+    "answer": 0
+  },
+  {
+    "question": "Who gave the slogan 'Do or Die' during the Indian freedom struggle?",
+    "options": ["Mahatma Gandhi", "Bhagat Singh", "Lala Lajpat Rai", "Sardar Patel"],
+    "answer": 0
+  },
+  {
+    "question": "The Berlin Wall fell in which year?",
+    "options": ["1980", "1985", "1989", "1991"],
+    "answer": 2
+  },
+  {
+    "question": "Which war was fought between North and South America in the 1860s?",
+    "options": ["Civil War", "World War I", "Cold War", "Revolutionary War"],
+    "answer": 0
+  },
+  {
+    "question": "Who led the Salt March in India?",
+    "options": ["Jawaharlal Nehru", "Gopal Krishna Gokhale", "Mahatma Gandhi", "Bal Gangadhar Tilak"],
+    "answer": 2
+  },
+  {
+    "question": "Which empire is known for building Machu Picchu?",
+    "options": ["Inca", "Maya", "Aztec", "Roman"],
+    "answer": 0
+  },
+  {
+    "question": "Who was the first female ruler of India?",
+    "options": ["Rani Lakshmibai", "Razia Sultana", "Ahilyabai Holkar", "Indira Gandhi"],
+    "answer": 1
+  },
+  {
+    "question": "Which revolution is associated with the fall of the Bastille?",
+    "options": ["American Revolution", "French Revolution", "Industrial Revolution", "Russian Revolution"],
+    "answer": 1
+  },
+  {
+    "question": "The Non-Cooperation Movement was launched in which year?",
+    "options": ["1919", "1920", "1930", "1942"],
+    "answer": 1
+  },
+  {
+    "question": "Who discovered the sea route to India in 1498?",
+    "options": ["Christopher Columbus", "Marco Polo", "Vasco da Gama", "Magellan"],
+    "answer": 2
+  },
+  {
+    "question": "Which Indian freedom fighter founded the INA (Indian National Army)?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Bhagat Singh", "Subhash Chandra Bose"],
+    "answer": 3
+  },
+
+
+
+
+
+
+
+
+  {
+    "question": "What is the value of π (pi) approximately?",
+    "options": ["3.12", "3.14", "3.16", "3.18"],
+    "answer": 1
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["12", "14", "16", "18"],
+    "answer": 0
+  },
+  {
+    "question": "If x + 3 = 7, what is the value of x?",
+    "options": ["2", "3", "4", "5"],
+    "answer": 2
+  },
+  {
+    "question": "Which number is a prime number?",
+    "options": ["4", "6", "9", "7"],
+    "answer": 3
+  },
+  {
+    "question": "What is the value of 2³?",
+    "options": ["6", "8", "9", "12"],
+    "answer": 1
+  },
+  {
+    "question": "If a triangle has angles of 60° and 60°, what is the third angle?",
+    "options": ["60°", "30°", "45°", "90°"],
+    "answer": 0
+  },
+  {
+    "question": "What is the formula for the area of a circle?",
+    "options": ["πr²", "2πr", "πd", "r²"],
+    "answer": 0
+  },
+  {
+    "question": "How many degrees are there in a right angle?",
+    "options": ["45°", "60°", "90°", "120°"],
+    "answer": 2
+  },
+  {
+    "question": "What is the result of 15 ÷ 3 + 2?",
+    "options": ["7", "5", "6", "3"],
+    "answer": 0
+  },
+  {
+    "question": "Which number is a multiple of both 3 and 5?",
+    "options": ["10", "15", "18", "25"],
+    "answer": 1
+  },
+  {
+    "question": "What is 10% of 200?",
+    "options": ["10", "15", "20", "25"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the smallest odd prime number?",
+    "options": ["1", "2", "3", "5"],
+    "answer": 2
+  },
+  {
+    "question": "What is the perimeter of a square with side length 5?",
+    "options": ["10", "15", "20", "25"],
+    "answer": 2
+  },
+  {
+    "question": "What is 7 × 8?",
+    "options": ["54", "56", "58", "60"],
+    "answer": 1
+  },
+  {
+    "question": "If 5x = 20, what is x?",
+    "options": ["2", "3", "4", "5"],
+    "answer": 2
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "question": "Choose the correct spelling:",
+    "options": ["Definately", "Definetely", "Definitely", "Defanitely"],
+    "answer": 2
+  },
+  {
+    "question": "Which part of speech is the word 'quickly'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": 2
+  },
+  {
+    "question": "What is the antonym of 'generous'?",
+    "options": ["Kind", "Greedy", "Helpful", "Caring"],
+    "answer": 1
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": ["She don't like tea.", "She doesn't likes tea.", "She doesn't like tea.", "She don't likes tea."],
+    "answer": 2
+  },
+  {
+    "question": "Which word means 'fear of confined spaces'?",
+    "options": ["Agoraphobia", "Hydrophobia", "Claustrophobia", "Xenophobia"],
+    "answer": 2
+  },
+  {
+    "question": "What is the plural of 'child'?",
+    "options": ["Childs", "Childes", "Children", "Childrens"],
+    "answer": 2
+  },
+  {
+    "question": "What figure of speech is 'The wind whispered through the trees'?",
+    "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+    "answer": 2
+  },
+  {
+    "question": "Complete the idiom: 'A blessing in ___'",
+    "options": ["sky", "trouble", "disguise", "pain"],
+    "answer": 2
+  },
+  {
+    "question": "Identify the verb in this sentence: 'He runs every morning.'",
+    "options": ["He", "runs", "every", "morning"],
+    "answer": 1
+  },
+  {
+    "question": "Which sentence is in passive voice?",
+    "options": ["The chef cooked the meal.", "The meal was cooked by the chef.", "The chef was cooking.", "The chef cooks well."],
+    "answer": 1
+  },
+  {
+    "question": "What is a synonym of 'begin'?",
+    "options": ["End", "Start", "Pause", "Quit"],
+    "answer": 1
+  },
+  {
+    "question": "Which is a homophone of 'pair'?",
+    "options": ["Pare", "Paree", "Peer", "Pear"],
+    "answer": 3
+  },
+  {
+    "question": "What type of sentence is this: 'What a beautiful sunset!'",
+    "options": ["Declarative", "Imperative", "Exclamatory", "Interrogative"],
+    "answer": 2
+  },
+  {
+    "question": "Choose the correct form: 'Neither of the boys ___ playing.'",
+    "options": ["are", "were", "is", "have"],
+    "answer": 2
+  },
+  {
+    "question": "What is the comparative form of 'good'?",
+    "options": ["More good", "Gooder", "Better", "Best"],
+    "answer": 2
+  },
+
+
+
+
+
+
+  
+
+  {
+    "question": "What comes next in the series? 2, 4, 8, 16, ___",
+    "options": ["18", "24", "32", "20"],
+    "answer": 2
+  },
+  {
+    "question": "If ALLERGY is coded as BMMFSHZ, then BRAIN is coded as:",
+    "options": ["CSBJO", "BSZJO", "CSBKP", "ATZHM"],
+    "answer": 0
+  },
+  {
+    "question": "What is the missing number? 3, 6, 11, 18, ___",
+    "options": ["25", "27", "27", "29"],
+    "answer": 3
+  },
+  {
+    "question": "A clock shows 3:15. What is the angle between the hour and minute hands?",
+    "options": ["0°", "7.5°", "15°", "30°"],
+    "answer": 1
+  },
+  {
+    "question": "Find the odd one out: Apple, Banana, Carrot, Mango",
+    "options": ["Apple", "Banana", "Carrot", "Mango"],
+    "answer": 2
+  },
+  {
+    "question": "If you rearrange the letters 'CIFAIPC', you get the name of a:",
+    "options": ["Animal", "City", "Ocean", "Country"],
+    "answer": 2
+  },
+  {
+    "question": "I am a number. Multiply me by 2 and subtract 1. The result is 7. Who am I?",
+    "options": ["3", "4", "5", "6"],
+    "answer": 1
+  },
+  {
+    "question": "How many 9s are there between 1 and 100?",
+    "options": ["9", "10", "11", "20"],
+    "answer": 2
+  },
+  {
+    "question": "Which number is missing? 1, 1, 2, 3, 5, 8, __",
+    "options": ["11", "13", "12", "15"],
+    "answer": 1  
+  },
+  {
+    "question": "Which shape has the most sides?",
+    "options": ["Triangle", "Hexagon", "Pentagon", "Octagon"],
+    "answer": 3
+  },
+  {
+    "question": "Find the odd one out: Dog, Cat, Cow, Tiger, Horse",
+    "options": ["Cat", "Dog", "Tiger", "Cow"],
+    "answer": 2  
+  },
+  {
+    "question": "A man is facing north. He turns 90° clockwise, then 180°, then 90° counterclockwise. Which direction is he facing?",
+    "options": ["North", "South", "East", "West"],
+    "answer": 1
+  },
+  {
+    "question": "Complete the pattern: 2, 6, 12, 20, ___",
+    "options": ["30", "28", "32", "24"],
+    "answer": 1
+  },
+  {
+    "question": "How many months have 28 days?",
+    "options": ["1", "2", "12", "Depends on the year"],
+    "answer": 2
+  },
+  {
+    "question": "You see me once in June, twice in November, but not at all in May. What am I?",
+    "options": ["A vowel", "The letter 'e'", "The moon", "The sun"],
+    "answer": 1
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    "question": "Which is the deepest ocean in the world?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean"],
+    "answer": 3
+  },
+  {
+    "question": "Which country was formerly known as Persia?",
+    "options": ["Iran", "Iraq", "Syria", "Jordan"],
+    "answer": 0
+  },
+  {
+    "question": "How many players are there in a rugby union team?",
+    "options": ["11", "13", "15", "17"],
+    "answer": 2
+  },
+  {
+    "question": "Which currency is used in South Korea?",
+    "options": ["Yen", "Won", "Ringgit", "Baht"],
+    "answer": 1
+  },
+  {
+    "question": "What is the national animal of Australia?",
+    "options": ["Kangaroo", "Koala", "Emu", "Platypus"],
+    "answer": 0
+  },
+  {
+    "question": "Which vitamin is known as the 'sunshine vitamin'?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "answer": 3
+  },
+  {
+    "question": "Which African country has pyramids older than Egypt’s?",
+    "options": ["Morocco", "Ethiopia", "Sudan", "Tunisia"],
+    "answer": 2
+  },
+  {
+    "question": "How many legs does a lobster have?",
+    "options": ["6", "8", "10", "12"],
+    "answer": 2
+  },
+  {
+    "question": "What is the freezing point of water in Fahrenheit?",
+    "options": ["32°F", "0°F", "100°F", "212°F"],
+    "answer": 0
+  },
+  {
+    "question": "Which gas is most abundant in Earth’s atmosphere?",
+    "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+    "answer": 3
+  },
+
+  {
+    "question": "Which company created the Python programming language?",
+    "options": ["Microsoft", "Apple", "Python Software Foundation", "Google"],
+    "answer": 2
+  },
+  {
+    "question": "Which protocol is used to send emails?",
+    "options": ["HTTP", "SMTP", "FTP", "IMAP"],
+    "answer": 1
+  },
+  {
+    "question": "What does RAM stand for?",
+    "options": ["Read Access Memory", "Random Access Memory", "Remote Application Module", "Read After Memory"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not an operating system?",
+    "options": ["Linux", "Windows", "Oracle", "macOS"],
+    "answer": 2
+  },
+  {
+    "question": "Which language is used for styling web pages?",
+    "options": ["HTML", "Java", "CSS", "Python"],
+    "answer": 2
+  },
+
+
+  {
+    "question": "Which actor voiced Buzz Lightyear in the original 'Toy Story' movies?",
+    "options": ["Tom Hanks", "Tim Allen", "Chris Evans", "Will Smith"],
+    "answer": 1
+  },
+  {
+    "question": "Who directed the movie 'Avatar'?",
+    "options": ["James Cameron", "Steven Spielberg", "Peter Jackson", "Ridley Scott"],
+    "answer": 0
+  },
+  {
+    "question": "Which Indian film won the Palme d'Or at Cannes in 1946?",
+    "options": ["Neecha Nagar", "Pather Panchali", "Mother India", "Guide"],
+    "answer": 0
+  },
+  {
+    "question": "Which Indian actor played the role of Milkha Singh in 'Bhaag Milkha Bhaag'?",
+    "options": ["Ranveer Singh", "Farhan Akhtar", "Ayushmann Khurrana", "Shahid Kapoor"],
+    "answer": 1
+  },
+  {
+    "question": "Which 2023 Indian film is based on the life of a nuclear physicist?",
+    "options": ["Jawan", "Rocketry: The Nambi Effect", "Mission Mangal", "Rustom"],
+    "answer": 1
+  },
+
+
+  {
+    "question": "What is the synonym of 'enormous'?",
+    "options": ["Tiny", "Huge", "Empty", "Flat"],
+    "answer": 1
+  },
+  {
+    "question": "Choose the correctly punctuated sentence:",
+    "options": ["Its raining outside.", "It's raining outside.", "Its' raining outside.", "Its raining, outside."],
+    "answer": 1
+  },
+  {
+    "question": "Which word is a conjunction?",
+    "options": ["Quickly", "Because", "Jump", "Happy"],
+    "answer": 1
+  },
+  {
+    "question": "Identify the adjective in: 'The tall man walked quickly.'",
+    "options": ["walked", "tall", "quickly", "man"],
+    "answer": 1
+  },
+  {
+    "question": "Which is a synonym for 'transparent'?",
+    "options": ["Clear", "Thick", "Dark", "Blurry"],
+    "answer": 0
+  },
+
+  
+  {
+    "question": "Which city is known as the 'City of Canals'?",
+    "options": ["Amsterdam", "Venice", "Bangkok", "Copenhagen"],
+    "answer": 1
+  },
+  {
+    "question": "Which continent has the most countries?",
+    "options": ["Africa", "Asia", "Europe", "South America"],
+    "answer": 0
+  },
+  {
+    "question": "Mount Everest lies in which mountain range?",
+    "options": ["Andes", "Alps", "Himalayas", "Rockies"],
+    "answer": 2
+  },
+  {
+    "question": "Which country is both in Europe and Asia?",
+    "options": ["Turkey", "Egypt", "Morocco", "Greece"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of New Zealand?",
+    "options": ["Auckland", "Christchurch", "Wellington", "Hamilton"],
+    "answer": 2
+  },
+  {
+    "question": "Which desert is the largest hot desert in the world?",
+    "options": ["Gobi", "Sahara", "Kalahari", "Arabian"],
+    "answer": 1
+  },
+  {
+    "question": "Which river flows through London?",
+    "options": ["Seine", "Danube", "Thames", "Rhine"],
+    "answer": 2
+  },
+  {
+    "question": "Which U.S. state is known as the 'Sunshine State'?",
+    "options": ["California", "Arizona", "Florida", "Texas"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon", "Yangtze", "Nile", "Mississippi"],
+    "answer": 2
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": ["Germany", "France", "Italy", "Spain"],
+    "answer": 1
+  },
+
+  {
+    "question": "What is the smallest bone in the human body?",
+    "options": ["Femur", "Stapes", "Ulna", "Radius"],
+    "answer": 1
+  },
+  {
+    "question": "Which organ purifies blood in the human body?",
+    "options": ["Liver", "Lungs", "Heart", "Kidneys"],
+    "answer": 3
+  },
+  {
+    "question": "How many teeth does a normal adult human have?",
+    "options": ["28", "30", "32", "34"],
+    "answer": 2
+  },
+  {
+    "question": "Which gas is used in balloons to make them float?",
+    "options": ["Hydrogen", "Oxygen", "Nitrogen", "Helium"],
+    "answer": 3
+  },
+  {
+    "question": "Which part of the plant makes food?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "answer": 2
+  },
+
+  
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["Hyper Text Transfer Protocol", "High Tech Transfer Protocol", "Hyperlink Transfer Tool Protocol", "Host Terminal Transport Protocol"],
+    "answer": 0
+  },
+  {
+    "question": "Which device is used to connect a computer to the internet?",
+    "options": ["Router", "Scanner", "CPU", "Projector"],
+    "answer": 0
+  },
+  {
+    "question": "Which of these is a cloud storage service?",
+    "options": ["Dropbox", "Android", "Bluetooth", "Java"],
+    "answer": 0
+  },
+  {
+    "question": "What does GPU stand for?",
+    "options": ["General Processing Unit", "Graphics Processing Unit", "Global Power Unit", "Graphical Protocol Utility"],
+    "answer": 1
+  },
+ 
+
+
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+    "answer": 1
+  },
+  {
+    "question": "Which dance form is native to Spain?",
+    "options": ["Samba", "Ballet", "Flamenco", "Tango"],
+    "answer": 2
+  },
+  {
+    "question": "Which musical instrument has keys, pedals, and strings?",
+    "options": ["Violin", "Piano", "Flute", "Drum"],
+    "answer": 1
+  },
+  {
+    "question": "Who wrote the Indian national anthem?",
+    "options": ["Bankim Chandra Chattopadhyay", "Rabindranath Tagore", "Subhash Chandra Bose", "Sarojini Naidu"],
+    "answer": 1
+  },
+  {
+    "question": "Which famous structure was built by Shah Jahan?",
+    "options": ["Red Fort", "Qutub Minar", "Charminar", "Taj Mahal"],
+    "answer": 3
+  },
+
+
+  {
+    "question": "Which currency is used in Japan?",
+    "options": ["Yuan", "Won", "Yen", "Ruble"],
+    "answer": 2
+  },
+  {
+    "question": "Who is known as the Iron Lady of British politics?",
+    "options": ["Theresa May", "Margaret Thatcher", "Angela Merkel", "Indira Gandhi"],
+    "answer": 1
+  },
+  {
+    "question": "Which organization has the motto 'Be Prepared'?",
+    "options": ["NCC", "Boy Scouts", "UNICEF", "WHO"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is famous for its tulips and windmills?",
+    "options": ["Germany", "Belgium", "Netherlands", "Switzerland"],
+    "answer": 2
+  },
+  {
+    "question": "Which ancient wonder was located in Egypt?",
+    "options": ["Colossus of Rhodes", "Hanging Gardens", "Great Pyramid of Giza", "Temple of Artemis"],
+    "answer": 2
+  },
+
+  
+  {
+    "question": "Which vitamin is produced by sunlight?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "answer": 3
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": ["6", "8", "10", "12"],
+    "answer": 1
+  },
+  {
+    "question": "What is the process by which plants release oxygen?",
+    "options": ["Respiration", "Photosynthesis", "Digestion", "Transpiration"],
+    "answer": 1
+  },
+  {
+    "question": "Which blood cells help in clotting?",
+    "options": ["RBCs", "WBCs", "Platelets", "Plasma"],
+    "answer": 2
+  },
+  {
+    "question": "Which part of the body controls balance?",
+    "options": ["Heart", "Brain", "Ear", "Lungs"],
+    "answer": 2
+  },
+
+
+  {
+    "question": "Which company developed the iPhone?",
+    "options": ["Samsung", "Google", "Microsoft", "Apple"],
+    "answer": 3
+  },
+  {
+    "question": "What is the full form of PDF?",
+    "options": ["Printable Document File", "Portable Document Format", "Public Data Format", "Paper Document File"],
+    "answer": 1
+  },
+  {
+    "question": "Who is known as the father of the computer?",
+    "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+    "answer": 1
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": ["Uniform Resource Locator", "Universal Reference Link", "Unified Routing Language", "User Resource Locator"],
+    "answer": 0
+  },
+  {
+    "question": "Which social media platform owns Instagram?",
+    "options": ["Google", "Microsoft", "Meta", "Snapchat"],
+    "answer": 2
+  },
+
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "George Orwell"],
+    "answer": 0
+  },
+  {
+    "question": "What is a synonym for 'happy'?",
+    "options": ["Sad", "Angry", "Joyful", "Tired"],
+    "answer": 2
+  },
+  {
+    "question": "Which language is spoken in Brazil?",
+    "options": ["Spanish", "French", "Portuguese", "Italian"],
+    "answer": 2
+  },
+  {
+    "question": "What do we call a word that is the opposite in meaning?",
+    "options": ["Synonym", "Homonym", "Antonym", "Acronym"],
+    "answer": 2
+  },
+  {
+    "question": "Who wrote 'The Jungle Book'?",
+    "options": ["Rudyard Kipling", "Roald Dahl", "Mark Twain", "J.K. Rowling"],
+    "answer": 0
+  },
+
+
+  {
+    "question": "What is the square root of 144?",
+    "options": ["10", "11", "12", "13"],
+    "answer": 2
+  },
+  {
+    "question": "What comes next in the pattern: 2, 4, 8, 16, ...?",
+    "options": ["24", "32", "20", "30"],
+    "answer": 1
+  },
+  {
+    "question": "What is 3⁴?",
+    "options": ["9", "27", "64", "81"],
+    "answer": 3
+  },
+  {
+    "question": "How many sides does a decagon have?",
+    "options": ["8", "10", "12", "6"],
+    "answer": 1
+  },
+  {
+    "question": "What is 25% of 200?",
+    "options": ["25", "40", "50", "60"],
+    "answer": 2
+  },
+
+  {
+    "question": "Which is the largest desert in the world?",
+    "options": ["Gobi", "Sahara", "Arctic", "Antarctic"],
+    "answer": 3
+  },
+  {
+    "question": "Which river flows through Paris?",
+    "options": ["Thames", "Seine", "Danube", "Rhine"],
+    "answer": 1
+  },
+  {
+    "question": "Mount Everest lies in which mountain range?",
+    "options": ["Andes", "Alps", "Himalayas", "Rockies"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the smallest ocean in the world?",
+    "options": ["Atlantic", "Indian", "Southern", "Arctic"],
+    "answer": 3
+  },
+  {
+    "question": "Which country is shaped like a boot?",
+    "options": ["France", "India", "Italy", "Spain"],
+    "answer": 2
+  },
+
+  
+  {
+    "question": "Which organ pumps blood throughout the body?",
+    "options": ["Lungs", "Heart", "Liver", "Kidney"],
+    "answer": 1
+  },
+  {
+    "question": "Which part of the plant conducts photosynthesis?",
+    "options": ["Stem", "Leaf", "Root", "Flower"],
+    "answer": 1
+  },
+  {
+    "question": "Which nutrient is mainly responsible for growth and repair?",
+    "options": ["Fats", "Proteins", "Carbohydrates", "Vitamins"],
+    "answer": 1
+  },
+  {
+    "question": "Which disease is caused by the deficiency of insulin?",
+    "options": ["Malaria", "Diabetes", "Typhoid", "Cancer"],
+    "answer": 1
+  },
+  {
+    "question": "Which blood group is known as the universal donor?",
+    "options": ["O+", "AB+", "O−", "A−"],
+    "answer": 2
+  },
+
+  {
+    "question": "What comes next in the series: 5, 10, 20, 40, ...?",
+    "options": ["50", "60", "70", "80"],
+    "answer": 3
+  },
+  {
+    "question": "If CAT = 24, and DOG = 26, then BAT = ?",
+    "options": ["23", "25", "28", "27"],
+    "answer": 0
+  },
+  {
+    "question": "Which word does not belong?",
+    "options": ["Apple", "Banana", "Carrot", "Mango"],
+    "answer": 2
+  },
+  {
+    "question": "If in a code, STAR is written as TSAR, how is BARK written?",
+    "options": ["BRKA", "ABKR", "BRKA", "BARK"],
+    "answer": 0
+  },
+  {
+    "question": "If 3x + 5 = 20, what is x?",
+    "options": ["3", "4", "5", "6"],
+    "answer": 3
+  },
+
+  {
+    "question": "In Hindu mythology, who is the god of destruction?",
+    "options": ["Vishnu", "Brahma", "Shiva", "Indra"],
+    "answer": 2
+  },
+  {
+    "question": "Which festival is also known as the Festival of Lights?",
+    "options": ["Holi", "Eid", "Diwali", "Christmas"],
+    "answer": 2
+  },
+  {
+    "question": "Ramayana was written by?",
+    "options": ["Valmiki", "Tulsidas", "Kalidasa", "Ved Vyas"],
+    "answer": 0
+  },
+  {
+    "question": "In Greek mythology, who is the king of the gods?",
+    "options": ["Apollo", "Zeus", "Poseidon", "Hades"],
+    "answer": 1
+  },
+  {
+    "question": "Which religion is followed by the majority in Indonesia?",
+    "options": ["Buddhism", "Islam", "Christianity", "Hinduism"],
+    "answer": 1
+  },
+
+  {
+    "question": "Which movie features the character 'Iron Man'?",
+    "options": ["Batman", "The Avengers", "X-Men", "Justice League"],
+    "answer": 1
+  },
+  {
+    "question": "Who sang the hit song 'Shape of You'?",
+    "options": ["Justin Bieber", "Ed Sheeran", "Shawn Mendes", "Bruno Mars"],
+    "answer": 1
+  },
+  {
+    "question": "Which fictional wizard studies at Hogwarts?",
+    "options": ["Gandalf", "Merlin", "Harry Potter", "Aladdin"],
+    "answer": 2
+  },
+  {
+    "question": "Which streaming platform released 'Stranger Things'?",
+    "options": ["Amazon Prime", "Disney+", "Netflix", "HBO Max"],
+    "answer": 2
+  },
+  {
+    "question": "Who played the role of Jack in 'Titanic'?",
+    "options": ["Brad Pitt", "Tom Cruise", "Leonardo DiCaprio", "Matt Damon"],
+    "answer": 2
+  },
+
+  
+  {
+    "question": "Who is known as the father of the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "James Watt"],
+    "answer": 0
+  },
+  {
+    "question": "Which gas is most abundant in Earth’s atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": 2
+  },
+  {
+    "question": "What planet is known as the Red Planet?",
+    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "answer": 0
+  },
+
+
+  {
+    "question": "Which is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the only continent without a desert?",
+    "options": ["Europe", "Asia", "South America", "North America"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the hardest substance in the human body?",
+    "options": ["Bone", "Skull", "Tooth Enamel", "Cartilage"],
+    "answer": 2
+  },
+
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": ["Germany", "Italy", "Argentina", "Brazil"],
+    "answer": 3
+  },
+  {
+    "question": "What sport uses a shuttlecock?",
+    "options": ["Tennis", "Squash", "Badminton", "Table Tennis"],
+    "answer": 2
+  },
+  {
+    "question": "Who is known as the 'Master Blaster' in cricket?",
+    "options": ["Virat Kohli", "MS Dhoni", "Sachin Tendulkar", "Ricky Ponting"],
+    "answer": 2
+  },
+  
+  {
+    "question": "Who was the first female Prime Minister of India?",
+    "options": ["Sushma Swaraj", "Sonia Gandhi", "Indira Gandhi", "Sarojini Naidu"],
+    "answer": 2
+  },
+  {
+    "question": "Which Article of the Indian Constitution guarantees the Right to Education?",
+    "options": ["Article 14", "Article 19", "Article 21A", "Article 45"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the current President of India as of 2024?",
+    "options": ["Narendra Modi", "Droupadi Murmu", "Amit Shah", "Ram Nath Kovind"],
+    "answer": 1
+  },
+
+  
+  {
+    "question": "I speak without a mouth and hear without ears. I have nobody, but I come alive with the wind. What am I?",
+    "options": ["Echo", "Shadow", "Whistle", "Sound"],
+    "answer": 0
+  },
+  {
+    "question": "What is always in front of you but can’t be seen?",
+    "options": ["Time", "Future", "Shadow", "Air"],
+    "answer": 1
+  },
+
+
+  {
+    "question": "What has keys but can't open locks?",
+    "options": ["Map", "Piano", "Locksmith", "Password"],
+    "answer": 1
+  },
+  {
+    "question": "What gets wetter the more it dries?",
+    "options": ["Water", "Sun", "Towel", "Raincoat"],
+    "answer": 2
+  },
+  {
+    "question": "I am tall when I am young and short when I am old. What am I?",
+    "options": ["Tree", "Pencil", "Shadow", "Candle"],
+    "answer": 3
+  },
+  {
+    "question": "The more of me you take, the more you leave behind. What am I?",
+    "options": ["Air", "Steps", "Shadow", "Memory"],
+    "answer": 1
+  },
+  {
+    "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+    "options": ["Time", "M", "Hour", "Event"],
+    "answer": 1
+  },
+  {
+    "question": "What has a head, a tail, is brown, and has no legs?",
+    "options": ["Coin", "Snake", "Lizard", "Stick"],
+    "answer": 0
+  },
+  {
+    "question": "What can travel around the world while staying in the same corner?",
+    "options": ["Map", "Stamp", "Compass", "Light"],
+    "answer": 1
+  },
+  {
+    "question": "Forward I’m heavy, but backward I’m not. What am I?",
+    "options": ["Ton", "Rock", "Weight", "Gravity"],
+    "answer": 0
+  },
+  {
+    "question": "What is full of holes but still holds water?",
+    "options": ["Pipe", "Net", "Sponge", "Bucket"],
+    "answer": 2
+  },
+  {
+    "question": "What disappears as soon as you say its name?",
+    "options": ["Echo", "Silence", "Air", "Whisper"],
+    "answer": 1
+  },
+  {
+    "question": "What can you catch but not throw?",
+    "options": ["Ball", "Cold", "Wind", "Thought"],
+    "answer": 1
+  },
+  {
+    "question": "Which word is spelled incorrectly in every dictionary?",
+    "options": ["Incorrectly", "Wrong", "Misspelled", "Error"],
+    "answer": 0
+  },
+  {
+    "question": "What begins with T, ends with T, and has T in it?",
+    "options": ["Teapot", "Tattoo", "Tent", "Toilet"],
+    "answer": 0
+  },
+  {
+    "question": "What comes down but never goes up?",
+    "options": ["Rain", "Ball", "Age", "Shadow"],
+    "answer": 0
+  },
+  {
+    "question": "What has many teeth but can’t bite?",
+    "options": ["Comb", "Fork", "Gear", "Zipper"],
+    "answer": 0
+  },
+
+
+
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "options": ["Germany", "France", "Brazil", "Argentina"],
+    "answer": 1
+  },
+  {
+    "question": "Who is the all-time top scorer in UEFA Champions League history?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Robert Lewandowski", "Karim Benzema"],
+    "answer": 0
+  },
+  {
+    "question": "Which club has won the most English Premier League titles?",
+    "options": ["Chelsea", "Manchester United", "Liverpool", "Arsenal"],
+    "answer": 1
+  },
+  {
+    "question": "Which country hosted the 2022 FIFA World Cup?",
+    "options": ["Russia", "USA", "Qatar", "UAE"],
+    "answer": 2
+  },
+  {
+    "question": "Who won the Ballon d'Or in 2023?",
+    "options": ["Kylian Mbappé", "Lionel Messi", "Erling Haaland", "Kevin De Bruyne"],
+    "answer": 1
+  },
+  {
+    "question": "Which team is nicknamed 'The Blues'?",
+    "options": ["Manchester City", "Chelsea", "Everton", "Leicester City"],
+    "answer": 1
+  },
+  {
+    "question": "Which country has won the most Copa América titles?",
+    "options": ["Brazil", "Uruguay", "Argentina", "Chile"],
+    "answer": 1
+  },
+  {
+    "question": "In football, how many players are there on the field per team during a match?",
+    "options": ["9", "10", "11", "12"],
+    "answer": 2
+  },
+  {
+    "question": "Who is the manager of Manchester City as of 2024?",
+    "options": ["Pep Guardiola", "Jürgen Klopp", "Thomas Tuchel", "Carlo Ancelotti"],
+    "answer": 0
+  },
+  {
+    "question": "Which country won the first ever FIFA World Cup in 1930?",
+    "options": ["Brazil", "Argentina", "Italy", "Uruguay"],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of Barcelona's home stadium?",
+    "options": ["Santiago Bernabéu", "Wanda Metropolitano", "Camp Nou", "San Siro"],
+    "answer": 2
+  },
+  {
+    "question": "Which player has won the most Ballon d'Or awards?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Michel Platini", "Johan Cruyff"],
+    "answer": 1
+  },
+  {
+    "question": "Which country is famous for the 'Yellow Jersey' in football?",
+    "options": ["Brazil", "Germany", "Mexico", "Spain"],
+    "answer": 0
+  },
+  {
+    "question": "Who scored the 'Hand of God' goal?",
+    "options": ["Pelé", "Cristiano Ronaldo", "Zinedine Zidane", "Diego Maradona"],
+    "answer": 3
+  },
+  {
+    "question": "Which African country reached the semi-finals of the FIFA World Cup for the first time in 2022?",
+    "options": ["Ghana", "Senegal", "Cameroon", "Morocco"],
+    "answer": 3
+  }
+
+]

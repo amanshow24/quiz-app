@@ -1,0 +1,260 @@
+:root {
+  --bg: #f7f9fc;
+  --card-bg: #ffffff;
+  --primary: #007bff;
+  --primary-dark: #0056b3;
+  --text: #212529;
+  --muted: #6c757d;
+  --radius: 10px;
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+  --transition: all 0.3s ease;
+  --font: 'Segoe UI', Roboto, sans-serif;
+  --success: #d4edda;
+  --danger: #f8d7da;
+  --info: #cce5ff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: var(--font);
+  background-color: var(--bg);
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  padding: 2rem 1rem;
+}
+
+.quiz-container {
+  flex: 1;
+  width: 100%;
+  max-width: 600px;
+  background-color: var(--card-bg);
+  margin: auto;
+  padding: 2.5rem 2rem;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  color: var(--primary);
+  margin-bottom: 2rem;
+}
+
+h2, h3 {
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
+#question-text {
+  font-size: 1.25rem;
+  margin-bottom: 1.2rem;
+  font-weight: 500;
+  text-align: center;
+}
+
+#options-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.option-btn {
+  background-color: var(--card-bg);
+  border: 2px solid var(--primary);
+  padding: 1rem;
+  border-radius: var(--radius);
+  font-size: 1rem;
+  color: var(--primary);
+  cursor: pointer;
+  transition: var(--transition);
+  text-align: left;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.option-btn:hover,
+.option-btn:focus {
+  background-color: var(--primary);
+  color: white;
+  outline: none;
+}
+
+.option-btn.selected {
+  background-color: var(--primary);
+  color: white;
+  font-weight: 600;
+  border-color: var(--primary-dark);
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.3);
+  transform: scale(1.02);
+}
+
+button {
+  background-color: var(--primary);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: var(--transition);
+  display: block;
+  margin: 0 auto;
+}
+
+button:hover:enabled {
+  background-color: var(--primary-dark);
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+#exit-btn {
+  background-color: #dc3545;
+}
+
+#exit-btn:hover {
+  background-color: #c82333;
+}
+
+#final-score {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-top: 1rem;
+  color: var(--text);
+}
+
+.hidden {
+  display: none;
+}
+
+.progress-container {
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  height: 12px;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+#progress-bar {
+  height: 100%;
+  width: 0%;
+  background-color: var(--primary);
+  transition: width 0.4s ease;
+  border-radius: 10px;
+}
+
+#timer {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #dc3545;
+  margin-bottom: 1rem;
+}
+
+/* ✅ Review Mode Styling */
+#review-box {
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+#review-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  background: #f9f9f9;
+  border-radius: var(--radius);
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid #ddd;
+}
+
+.review-item h4 {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  color: var(--primary-dark);
+}
+
+.review-item ul {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+.review-item li {
+  margin-bottom: 0.4rem;
+  padding: 0.5rem;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.correct {
+  background-color: var(--success);
+  color: #155724;
+}
+
+.wrong {
+  background-color: var(--danger);
+  color: #721c24;
+}
+
+.user-correct {
+  background-color: var(--info);
+  color: #004085;
+}
+
+/* === Sticky Footer Styles === */
+.app-footer {
+  text-align: center;
+  padding: 1rem;
+  color: #555;
+  font-size: 0.9rem;
+  border-top: 1px solid #ddd;
+  margin-top: auto;
+}
+
+@media (prefers-color-scheme: dark) {
+  .app-footer {
+    background-color: #1a1a1a;
+    color: #bbb;
+    border-top: 1px solid #333;
+  }
+}

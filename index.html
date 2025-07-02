@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🧠 BrainBattle</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="responsive.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <!-- App Header -->
+    <header class="app-header">
+      <h1>🧠 BrainBattle</h1>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <!-- Start screen -->
+      <div id="start-box">
+        <h2>Welcome to the Quiz</h2>
+        <button id="start-btn">Start Quiz</button>
+      </div>
+
+      <!-- Quiz box -->
+      <div id="quiz-box" class="hidden">
+        <div class="progress-container">
+          <div id="progress-bar"></div>
+        </div>
+        <div id="timer">⏱ Time Left: <span id="time-remaining">30</span>s</div>
+
+        <h3 id="question-number"></h3>
+        <p id="question-text"></p>
+        <div id="options-container"></div>
+        <div class="button-group">
+          <button id="exit-btn">Exit Quiz</button>
+          <button id="next-btn" disabled>Next</button>
+        </div>
+      </div>
+
+      <!-- Result box -->
+      <div id="result-box" class="hidden">
+        <h2>Quiz Completed!</h2>
+        <p id="final-score"></p>
+        <div class="button-group">
+          <button id="restart-btn">Restart</button>
+          <button id="review-btn">Review Answers</button>
+        </div>
+      </div>
+
+      <!-- Review box -->
+      <div id="review-box" class="hidden">
+        <h2>📋 Review Your Answers</h2>
+        <div id="review-container"></div>
+        <div class="button-group">
+          <button id="back-btn">⬅ Back to Results</button>
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>© 2025 <strong>BrainBattle</strong>. All rights reserved. Aman Show.</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
